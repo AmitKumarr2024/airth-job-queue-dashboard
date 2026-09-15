@@ -18,6 +18,7 @@ A full-stack Mini Job Queue Dashboard built for the Airth internship assignment.
 ## Tech Stack
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
@@ -25,6 +26,7 @@ A full-stack Mini Job Queue Dashboard built for the Airth internship assignment.
 - Fetch API
 
 ### Backend
+
 - NestJS
 - TypeScript
 - TypeORM
@@ -32,6 +34,7 @@ A full-stack Mini Job Queue Dashboard built for the Airth internship assignment.
 - class-validator
 
 ### Database
+
 - SQLite
 
 ## Project Structure
@@ -40,9 +43,12 @@ A full-stack Mini Job Queue Dashboard built for the Airth internship assignment.
 airth-job-queue-dashboard/
 ├── backend/
 │   ├── src/
-│   ├── jobs.sqlite
-│   └── package.json
+│   ├── package.json
+│   └── .env.example
 ├── frontend/
 │   ├── src/
-│   └── package.json
+│   ├── package.json
+│   └── .env.example
+├── .gitignore
 └── README.md
+```
