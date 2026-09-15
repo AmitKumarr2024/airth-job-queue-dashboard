@@ -1,4 +1,3 @@
-@"
 # Airth Job Queue Dashboard
 
 A full-stack Mini Job Queue Dashboard built for the Airth internship assignment.
